@@ -1,4 +1,4 @@
-package com.wendeveloper.guessNumber;
+package com.wendeveloper.guessnumber;
 
 import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
